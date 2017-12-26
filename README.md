@@ -1,6 +1,6 @@
 # CS
-Cuckoo Search (CS) Python Source Code
-This code is designed based on agent based algorithm.  
+Cuckoo Search (CS) Python Source Code  
+This code is designed based on agent based model.  
 ※Please tell me when I make mistakes in this code.
 
 # Module
