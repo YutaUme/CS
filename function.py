@@ -16,8 +16,10 @@ def eggholder(array):
     return z
 
 def sphere(array):
-    z = array[0]**2 + array[1]**2
-    return z
+    fitness = 0
+    for i in range(len(array)):
+        fitness = fitness + array[i]**2
+    return fitness
 
 def rastrigin(array):
     sum = 0
